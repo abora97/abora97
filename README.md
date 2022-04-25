@@ -37,6 +37,16 @@
  
  <br/>
  
+ 
+ ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
+![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Code-kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Code-git-informational?style=flat&logo=git&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Code-github-informational?style=flat&logo=github&logoColor=white&color=ffffff)
+
+
+  <br/>
 
  <p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" /></p>
 
