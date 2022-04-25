@@ -21,7 +21,7 @@
  
   <br>
   
-[![Abora's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abora97&theme=night)](https://github.com/abora97?tab=repositories)
+[![Abora's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abora97)](https://github.com/abora97?tab=repositories)
 
 | [![Abora's github stats](https://github-readme-stats.vercel.app/api?username=abora97&show_icons=true&theme=tokyonight)](https://github.com/abora97?tab=repositories) | [![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abora97&theme=tokyonight)](https://github.com/abora97?tab=repositories) |
 | --- | --- |
