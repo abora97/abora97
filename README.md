@@ -10,6 +10,25 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{abora97}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
 <br/>
 
+ 
+ <p align="center">
+  <a href="https://www.linkedin.com/in/mahmoud-elebiary/">
+   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
+    </a><span>&nbsp;</span>
+  <a href="https://twitter.com/Mahmod_Elebiary">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+  <a href="https://www.instagram.com/mahmoud_elebiary/?hl=en">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+  <a href="mailto:mahmod.elebiary@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+  <a href="https://github.com/abora97">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
+  </a><span>&nbsp;</span>
+</p>
+ 
 
  <p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" /></p>
 
