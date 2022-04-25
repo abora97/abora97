@@ -15,6 +15,9 @@
   <a href="https://www.linkedin.com/in/mahmoud-elebiary/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
     </a><span>&nbsp;</span>
+    <a href="https://www.hackerrank.com/mahmoud_elebiary?hr_r=1">
+   <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/hacker_rank.svg" width="3.5%"/>
+    </a><span>&nbsp;</span>
    <a href="https://www.facebook.com/MahmoudElebiary97">
    <img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>
     </a><span>&nbsp;</span>
