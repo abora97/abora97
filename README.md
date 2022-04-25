@@ -15,6 +15,9 @@
   <a href="https://www.linkedin.com/in/mahmoud-elebiary/">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
     </a><span>&nbsp;</span>
+   <a href="https://www.facebook.com/MahmoudElebiary97">
+   <img src="https://img.icons8.com/color/48/000000/facebook.png" width="3.5%"/>
+    </a><span>&nbsp;</span>
   <a href="https://twitter.com/Mahmod_Elebiary">
     <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
   </a><span>&nbsp;</span>
