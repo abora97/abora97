@@ -54,6 +54,7 @@ Hi! I'm a mobile application developer, excellent analytical and design capabili
 ![](https://img.shields.io/badge/Code-gradle-informational?style=flat&logo=gradle&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-postman-informational?style=flat&logo=postman&logoColor=white&color=ffffff)
  
+ <br/>
  
  # Key things I've dealt with:
 - Clean Architecture
