@@ -6,15 +6,16 @@
 <h3 align="center">A passionate Android developer from Egypt</h3>
 
  
- <h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{abora97}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
-<br/>
-
- 
- <br/> 
+<br/> 
 Hi! I'm a mobile application developer, excellent analytical and design capabilities with keen attention to detail and overall quality of end result, my goals are to continue to provide a high-quality development service and to participate in successful projects and products. I'm specializing in the development of Android applications and work on many applications, from simple single-screen applications to large applications. I work on all aspects of the development lifecycle, applying my knowledge of OOP, MVVM, MVP , and MVC principles. My past work includes building user-focused, innovative, keep user security and performance UI, and developing clean code with teamwork.
 
 <br/><br/>
+ 
+  
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{abora97}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+<br/>
+
  
  <p align="center">
   <a href="https://www.linkedin.com/in/mahmoud-elebiary/">
