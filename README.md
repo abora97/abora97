@@ -56,14 +56,9 @@
  <p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" /></p>
 
  
- 
-<!--  
-[![Abora's github stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=abora97&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/abora97?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=abora97&layout=compact&langs_count=6&theme=blue-green)](https://github.com/abora97)
- -->
- 
   <br>
   
-| [![Abora's github stats](https://github-readme-stats.vercel.app/api?username=abora97&show_icons=true&theme=tokyonight)](https://github.com/abora97?tab=repositories) | [![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abora97&theme=tokyonight)](https://github.com/abora97?tab=repositories) |
+| [![Abora's github stats](https://github-readme-stats.vercel.app/api?username=abora97&show_icons=true&theme=radical)](https://github.com/abora97?tab=repositories) | [![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abora97&theme=tokyonight)](https://github.com/abora97?tab=repositories) |
 | --- | --- |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abora97&theme=tokyonight)](https://github.com/abora97?tab=repositories) | [![Github Stars](https://github-readme-stats.vercel.app/api?username=abora97&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)](https://github.com/abora97?tab=repositories) |
 
