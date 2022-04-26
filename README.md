@@ -62,7 +62,7 @@
 | --- | --- |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abora97&theme=tokyonight)](https://github.com/abora97?tab=repositories) | [![Github Stars](https://github-readme-stats.vercel.app/api?username=abora97&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)](https://github.com/abora97?tab=repositories) |
 
-[![Abora's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abora97&theme=radical)](https://github.com/abora97?tab=repositories)
+[![Abora's GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=abora97&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/abora97?tab=repositories)
 
 
 <br>
