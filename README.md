@@ -44,7 +44,12 @@
 ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-git-informational?style=flat&logo=git&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-github-informational?style=flat&logo=github&logoColor=white&color=ffffff)
-
+![](https://img.shields.io/badge/Code-firebase-informational?style=flat&logo=firebase&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Code-gradle-informational?style=flat&logo=gradle&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Code-postman-informational?style=flat&logo=postman&logoColor=white&color=ffffff)
+ 
+ 
+ 
 
   <br/>
 
