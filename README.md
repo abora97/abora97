@@ -55,6 +55,17 @@ Hi! I'm a mobile application developer, excellent analytical and design capabili
 ![](https://img.shields.io/badge/Code-postman-informational?style=flat&logo=postman&logoColor=white&color=ffffff)
  
  
+ # Key things I've dealt with:
+- Clean Architecture
+- Google Architecture components
+- MVP/MVVM/MVC
+- Single Activity
+- Dagger
+- Firebase/Room/SQLite/MySql
+- RxJava/Coroutines
+- GoogleMap
+- Retrofit/Volley
+- Sockets 
  
 
   <br/>
@@ -72,3 +83,9 @@ Hi! I'm a mobile application developer, excellent analytical and design capabili
 
 
 <br>
+
+ 
+ <h4 align="center">
+  <a href="https://github.com/noor1yasser9?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+ 
