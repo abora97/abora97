@@ -52,7 +52,7 @@ I'm a mobile application developer, excellent analytical and design capabilities
  <br/>
  
  
- ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20px">
+ ## Skills 
 ![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=ffffff)
