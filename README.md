@@ -3,7 +3,11 @@
 -->
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/mahmoud-elebiary/" target="_blank" rel="noopener noreferrer">MahmoudElebiary</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
-<h3 align="center">A passionate Android developer from Egypt</h3>
+
+<h3 align="center">
+  A passionate Android developer from Egypt
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+</h3>
 
  
 <br/> 
@@ -44,7 +48,7 @@ I'm a mobile application developer, excellent analytical and design capabilities
  <br/>
  
  
- ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
+ ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20px">
 ![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=ffffff)
